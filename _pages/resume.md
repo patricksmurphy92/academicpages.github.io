@@ -44,20 +44,29 @@ Projects
   * Wrangled data from Kaggle SQLite database through merge, join, and group-by.
   * Regressed home team win binary variable on FIFA video game attributes to calculate probability of home team win in R with prediction accuracy of 61.7%.
   
+Coursework
+======
+* Analytical Models
+* Python for Computing
+* Regression Analysis
+* Deterministic Optimization
+* Information Visualization
+* Data and Visual Analytics
+* Data Analytics for Business
+* Marketing Analytics and Pricing Strategy
+* Time Series Analysis
+* Machine Learing
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Python
+  * NumPy, SciPy, Pandas, Scikit-learn, Tensorﬂow, Matplotlib, Seaborn, Bokeh 
+* R
+  * caret, rpart, randomForest, glmnet, tree, dplyr, ggplot, MASS, tseries, car
+* Javascript
+  * d3.js
+* Excel
+  * Financial Modeling, Optimization
   
 Talks
 ======
