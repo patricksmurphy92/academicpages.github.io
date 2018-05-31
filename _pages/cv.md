@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.S. in Analytics, Georgia Institute of Technology, December 2018
+* BBA in Finance and Applied Math, University of Notre Dame, May 2015
 
 Work experience
 ======
