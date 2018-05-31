@@ -49,7 +49,7 @@ redirect_from:
 * Data Analytics for Business
 * Marketing Analytics and Pricing Strategy
 * Time Series Analysis
-* Machine Learing
+* Machine Learning
 
 ## Skills
 * Python
@@ -60,7 +60,12 @@ redirect_from:
   * d3.js
 * Excel
   * Financial Modeling, Optimization
-  
+* Analytical Techniques
+  * Classification, CLustering, Time Series, Regression, Tree-based Models, Variable Selection, Simulation, Linear and Integer Optimization, Markov Chains, PCA, SVD, Cross-validation, Machine Learning, Random Forest, Neural Networks, Boosting, Naive Bayes, A/B Testing
+
 ## Leadership
-* Currently signed in to 43 different slack teams
+#### Georgia Institute of Technology Varsity Swim Team | Aug 2017 – May 2018 | Assistant Swim Coach
+
+#### University of Notre Dame Varsity Swim Team | May 2013 – May 2015 | Men's Team Captain
+  * Developed key skills of self-awareness, commitment, and communication.
 
