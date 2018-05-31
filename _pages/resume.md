@@ -12,8 +12,7 @@ redirect_from:
 * M.S. in Analytics, Georgia Institute of Technology, December 2018
 * BBA in Finance and Applied Math, University of Notre Dame, May 2015
 
-Work experience
-======
+## Work experience
 * Power Services HQ Income Statement FP&A Analyst Jan 2017 – Aug 2017 Atlanta, GA
   * Led weekly income statement pacing of $15B business with ten reporting regions through Excel macros, templates and Tableau    visualizations.
   * Assisted base cost team in efforts to reduce base cost by 15% year over year.
@@ -30,8 +29,7 @@ Work experience
   * Led weekly income statement pacing of $15B business with ten reporting regions through Excel macros, templates and Tableau    visualizations.
   * Assisted base cost team in efforts to reduce base cost by 15% year over year.
   
-Projects
-======
+## Projects
 * Georgia Tech Athletics Ticket Pricing Optimization Jan 2018 – Apr 2018
   * Collaborated with Georgia Tech athletics to optimize revenue from ticket sales, maximize fan engagement, and improve marketing strategy.
   * Built tree-based regression model to predict customer willingness.
@@ -41,8 +39,7 @@ Projects
   * Wrangled data from Kaggle SQLite database through merge, join, and group-by.
   * Regressed home team win binary variable on FIFA video game attributes to calculate probability of home team win in R with prediction accuracy of 61.7%.
   
-Coursework
-======
+## Coursework
 * Analytical Models
 * Python for Computing
 * Regression Analysis
@@ -55,7 +52,6 @@ Coursework
 * Machine Learing
 
 Skills
-======
 * Python
   * NumPy, SciPy, Pandas, Scikit-learn, Tensorﬂow, Matplotlib, Seaborn, Bokeh 
 * R
@@ -65,19 +61,6 @@ Skills
 * Excel
   * Financial Modeling, Optimization
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
+## Leadership
 * Currently signed in to 43 different slack teams
 
