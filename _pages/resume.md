@@ -16,10 +16,9 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Power Services HQ Income Statement FP&A Analyst | Jan 2017 – Aug 2017 | Atlanta, GA
+  * Led weekly income statement pacing of $15B business with ten reporting regions through Excel macros, templates and Tableau    visualizations.
+  * Assisted base cost team in efforts to reduce base cost by 15% year over year.
 
 * Fall 2015: Research Assistant
   * Github University
