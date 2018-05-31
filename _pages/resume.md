@@ -16,14 +16,21 @@ Education
 
 Work experience
 ======
-* Power Services HQ Income Statement FP&A Analyst | Jan 2017 – Aug 2017 | Atlanta, GA
+* Power Services HQ Income Statement FP&A Analyst Jan 2017 – Aug 2017 Atlanta, GA
   * Led weekly income statement pacing of $15B business with ten reporting regions through Excel macros, templates and Tableau    visualizations.
   * Assisted base cost team in efforts to reduce base cost by 15% year over year.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Power Services CSA Risk Analyst | Jul 2016 – Jan 2017 | Atlanta, GA
+  * Assisted leadership in pacing, using forecasting risk models to reduce $6.6B of deferred revenue through factoring and other commercial actions.
+  * Led billing system automation and sent frequent analytics reports to team.
+  
+* Distributed Power Manufacturing and Finance Analyst | Jan 2016 – Jul 2016 | Waukesha, WI
+  * Led weekly income statement pacing of $15B business with ten reporting regions through Excel macros, templates and Tableau    visualizations.
+  * Assisted base cost team in efforts to reduce base cost by 15% year over year.
+  
+* Power Services HQ Income Statement FP&A Analyst | Jan 2017 – Aug 2017 | Atlanta, GA
+  * Led weekly income statement pacing of $15B business with ten reporting regions through Excel macros, templates and Tableau    visualizations.
+  * Assisted base cost team in efforts to reduce base cost by 15% year over year.
   
 Skills
 ======
