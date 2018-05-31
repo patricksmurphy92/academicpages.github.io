@@ -13,8 +13,8 @@ redirect_from:
 * BBA in Finance and Applied Math, University of Notre Dame, May 2015
 
 ## Work experience
-#### Power Services HQ Income Statement FP&A Analyst 
-**Jan 2017 – Aug 2017 | Atlanta, GA**
+### Power Services HQ Income Statement FP&A Analyst 
+#### Jan 2017 – Aug 2017 | Atlanta, GA
   * Led weekly income statement pacing of $15B business with ten reporting regions through Excel macros, templates and Tableau    visualizations.
   * Assisted base cost team in efforts to reduce base cost by 15% year over year.
 
