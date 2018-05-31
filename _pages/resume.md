@@ -8,10 +8,7 @@ redirect_from:
 ---
 
 
-{% include base_path %}
-
-Education
-======
+## Education
 * M.S. in Analytics, Georgia Institute of Technology, December 2018
 * BBA in Finance and Applied Math, University of Notre Dame, May 2015
 
