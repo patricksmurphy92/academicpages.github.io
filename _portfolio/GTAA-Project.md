@@ -10,4 +10,4 @@ fslajflsaj
 safjlsdajf
 jflsdajfls
 
-Click here to see the [I'm an inline-style link](https://patricksmurphy92.github.io/portfolio/bobbydodd.html).
+Click here to see the [visualization](https://patricksmurphy92.github.io/portfolio/bobbydodd.html).
