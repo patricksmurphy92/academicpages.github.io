@@ -1,0 +1,92 @@
+body {
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.vis_header {
+    position: block;
+    font-size: 32px;
+    margin: 0;
+    text-align: center;
+}
+
+.vis_instructions {
+    position: absolute;
+    width: 300px;
+    top: 50px;
+    left: 33px;
+}
+
+.custom-select {
+  position: relative;
+  font-family: Arial;
+}
+
+.svg_sections {
+    stroke: #8b8b8b;
+    stroke-width: 1px;
+}
+
+.stadium {
+    display: block;
+    margin: auto;
+}
+
+#opponentIndicator {
+    position: absolute;
+    top: 137px;
+    left: 33px;
+}
+
+#opponentSelector {
+    position: absolute;
+    top: 170px;
+    left: 30px;
+}
+
+#day_and_timeIndicator {
+    position: absolute;
+    top: 182px;
+    left: 33px;
+}
+
+#day_and_timeSelector {
+    position: absolute;
+    top: 215px;
+    left: 30px;
+}
+
+.standLabel {
+    font-weight: bold;
+}
+
+.axis path {
+    fill: none;
+    stroke: none;
+    shape-rendering: crispEdges;
+}
+
+.tooltip {
+  line-height: 1;
+  padding: 12px;
+  background: rgba(40, 40, 40, 0.85);
+  color: white;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.tooltip span {
+    color: #E0E0E0;
+    font-weight: bold;
+    line-height: 18px;
+}
+
+.legendTitle {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.legend_line {
+    stroke: black;
+    stroke-width: 1.75;
+}

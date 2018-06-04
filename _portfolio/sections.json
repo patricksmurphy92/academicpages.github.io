@@ -1,0 +1,307 @@
+[
+    {
+        "section_name" : "StudentsNorth",
+        "fill" : "black",
+        "block" : "M235,115 l20,60 q-5,0,-9,10 l0,220 l-40,10 q5,20,15,30, l-45,45 q-25,-20,-30,-55 l0,-230, l40,0, l0,-45 q10,-40,50,-45"
+	},
+    {
+        "section_name" : "101",
+		"fill" : "gray",
+		"block" : "M608,415 l30,0 l0,110 l-30,0"
+	},
+    {
+		"section_name" : "102",
+		"fill" : "lightblue",
+		"block" : "M570,415 l33,0 l0,110 l-33,0"
+	},
+	{
+		"section_name" : "103",
+		"fill" : "SaddleBrown",
+		"block" : "M532,415 l33,0 l0,110 l-33,0"
+	},
+	{
+		"section_name" : "104",
+		"fill" : "lightpink",
+		"block" : "M494,415 l33,0 l0,110 l-33,0"
+	},
+	{
+		"section_name" : "105",
+		"fill" : "salmon",
+		"block" : "M459,415 l30,0 l0,110 l-30,0"
+	},
+	{
+		"section_name" : "106",
+		"fill" : "teal",
+		"block" : "M421,415 l33,0 l0,110 l-33,0"
+	},
+	{
+		"section_name" : "107",
+		"fill" : "salmon",
+		"block" : "M386,415 l30,0 l0,110 l-30,0"
+	},
+	{
+		"section_name" : "108",
+		"fill" : "lightpink",
+		"block" : "M351,415 l30,0 l0,110 l-30,0"
+	},
+	{
+		"section_name" : "109",
+		"fill" : "SaddleBrown",
+		"block" : "M316,415 l30,0 l0,110 l-30,0"
+	},
+	{
+		"section_name" : "110",
+		"fill" : "purple",
+		"block" : "M278,415 l33,0 l0,110 l-33,0"
+	},
+	{
+		"section_name" : "111",
+		"fill" : "gray",
+		"block" : "M240,415 l33,0 l0,110 l-33,0"
+	},
+	{
+		"section_name" : "121",
+		"fill" : "gray",
+		"block" : "M240,115 l35,0 l0,60 l-15,0"
+	},
+	{
+		"section_name" : "122",
+		"fill" : "lightblue",
+		"block" : "M280,115 l35,0 l0,60 l-35,0"
+	},
+	{
+		"section_name" : "123",
+		"fill" : "purple",
+		"block" : "M320,115 l30,0 l0,60 l-30,0"
+	},
+	{
+		"section_name" : "124",
+		"fill" : "SaddleBrown",
+		"block" : "M355,115 l15,0 l0,60 l-15,0"
+	},
+	{
+		"section_name" : "CLUB 1",
+		"fill" : "maroon",
+		"block" : "M375,115 l15,0 l0,60 l-15,0"
+	},
+	{
+		"section_name" : "CLUB 2",
+		"fill" : "pink",
+		"block" : "M395,115 l40,0 l0,60 l-40,0"
+	},
+	{
+		"section_name" : "CLUB 3",
+		"fill" : "pink",
+		"block" : "M440,115 l40,0 l0,60 l-40,0"
+	},
+	{
+		"section_name" : "CLUB 4",
+		"fill" : "maroon",
+		"block" : "M485,115 l15,0 l0,60 l-15,0"
+	},
+	{
+		"section_name" : "127",
+		"fill" : "SaddleBrown",
+		"block" : "M505,115 l15,0 l0,60 l-15,0"
+	},
+	{
+		"section_name" : "128",
+		"fill" : "purple",
+		"block" : "M525,115 l30,0 l0,60 l-30,0"
+	},
+	{
+		"section_name" : "129",
+		"fill" : "lightblue",
+		"block" : "M560,115 l35,0 l0,60 l-35,0"
+	},
+	{
+		"section_name" : "130",
+		"fill" : "gray",
+		"block" : "M600,115 l35,0 l-15,60 l-20,0"
+	},
+	{
+		"section_name" : "131",
+		"fill" : "gray",
+		"block" : "M650,85 q40,5,55,30 l-22,22 q8,5,10,15 l-60,36 q0,-5,-9,-10"
+	},
+	{
+		"section_name" : "132",
+		"fill" : "gray",
+		"block" : "M635,192 l20,-12 l0,35, l-20,0"
+	},
+	{
+		"section_name" : "StudentsSouth",
+		"fill" : "black",
+		"block" : "M660,177 l35,-20 l0,255, l-60,-15 l0,-178 l25,0"
+	},
+	{
+		"section_name" : "TT",
+		"fill" : "SaddleBrown",
+		"block" : "M700,157 l15,0 l0,245,l-15,0"
+	},
+	{
+		"section_name" : "201",
+		"fill" : "gray",
+		"block" : "M624,530 l30,0 l0,60 l-30,0"
+	},
+	{
+		"section_name" : "202",
+		"fill" : "gray",
+		"block" : "M554,530 l65,0 l0,60 l-65,0"
+	},
+	{
+		"section_name" : "203L",
+		"fill" : "purple",
+		"block" : "M495,530 l54,0 l0,28 l-54,0"
+	},
+	{
+		"section_name" : "203U",
+		"fill" : "lightblue",
+		"block" : "M495,562 l54,0 l0,28 l-54,0"
+	},
+	{
+		"section_name" : "204L",
+		"fill" : "SaddleBrown",
+		"block" : "M436,530 l54,0 l0,28 l-54,0"
+	},
+	{
+		"section_name" : "204U",
+		"fill" : "yellow",
+		"block" : "M436,562 l54,0 l0,28 l-54,0"
+	},
+	{
+		"section_name" : "205L",
+		"fill" : "SaddleBrown",
+		"block" : "M377,530 l54,0 l0,28 l-54,0"
+	},
+	{
+		"section_name" : "205U",
+		"fill" : "yellow",
+		"block" : "M377,562 l54,0 l0,28 l-54,0"
+	},
+	{
+		"section_name" : "206L",
+		"fill" : "purple",
+		"block" : "M318,530 l54,0 l0,28 l-54,0"
+	},
+	{
+		"section_name" : "206U",
+		"fill" : "lightblue",
+		"block" : "M318,562 l54,0 l0,28 l-54,0"
+	},
+	{
+		"section_name" : "207",
+		"fill" : "gray",
+		"block" : "M270,530 l43,0 l0,60 l-43,0"
+	},
+	{
+		"section_name" : "208",
+		"fill" : "gray",
+		"block" : "M240,530 l25,0 l0,60 l-25,0"
+	},
+	{
+		"section_name" : "210",
+		"fill" : "gray",
+		"block" : "M55,510 q20,35,42,55 l74,-71 q-20,-19,-22,-25"
+	},
+	{
+		"section_name" : "211",
+		"fill" : "gray",
+		"block" : "M31,460 q10,30,21,46 l95,-41 q-4,-10,-8,-30"
+	},
+	{
+		"section_name" : "212",
+		"fill" : "gray",
+		"block" : "M25,415 l95,0 l0,19 l-90,20 q0,0,-5,-35"
+	},
+	{
+		"section_name" : "213",
+		"fill" : "gray",
+		"block" : "M25,375 l115,0 l0,55 l-15,3 l0,-23 l-100,0"
+	},
+	{
+		"section_name" : "214",
+		"fill" : "gray",
+		"block" : "M25,330 l115,0 l0,40 l-115,0"
+	},
+	{
+		"section_name" : "215",
+		"fill" : "gray",
+		"block" : "M25,285 l115,0 l0,40 l-115,0"
+	},
+	{
+		"section_name" : "216",
+		"fill" : "gray",
+		"block" : "M25,235 l115,0 l0,45 l-115,0"
+	},
+	{
+		"section_name" : "217",
+		"fill" : "gray",
+		"block" : "M25,185 l90,0 l0,20 l25,0 l0,25 l-115,0"
+	},
+	{
+		"section_name" : "218",
+		"fill" : "gray",
+		"block" : "M120,155 l60,0 l0,45 l-60,0"
+	},
+	{
+		"section_name" : "219",
+		"fill" : "gray",
+		"block" : "M25,130 l155,0 l0,20 l-65,0 l0,30 l-90,0"
+	},
+	{
+		"section_name" : "221",
+		"fill" : "gray",
+		"block" : "M240,50 l25,0 l0,60 l-25,0"
+	},
+	{
+		"section_name" : "222",
+		"fill" : "gray",
+		"block" : "M270,50 l40,0 l0,60 l-40,0"
+	},
+	{
+		"section_name" : "223",
+		"fill" : "lightblue",
+		"block" : "M315,50 l45,0 l0,60 l-45,0"
+	},
+	{
+		"section_name" : "224U",
+		"fill" : "yellow",
+		"block" : "M365,50 l45,0 l0,30 l-45,0"
+	},
+	{
+		"section_name" : "224L",
+		"fill" : "orange",
+		"block" : "M365,80 l45,0 l0,30 l-45,0"
+	},
+	{
+		"section_name" : "225",
+		"fill" : "orange",
+		"block" : "M415,50 l45,0 l0,60 l-45,0"
+	},
+	{
+		"section_name" : "226U",
+		"fill" : "yellow",
+		"block" : "M465,50 l45,0 l0,30 l-45,0"
+	},
+	{
+		"section_name" : "226L",
+		"fill" : "orange",
+		"block" : "M465,80 l45,0 l0,30 l-45,0"
+	},
+	{
+		"section_name" : "227",
+		"fill" : "lightblue",
+		"block" : "M515,50 l45,0 l0,60 l-45,0"
+	},
+	{
+		"section_name" : "228",
+		"fill" : "gray",
+		"block" : "M565,50 l45,0 l0,60 l-45,0"
+	},
+	{
+		"section_name" : "229",
+		"fill" : "gray",
+		"block" : "M615,50 l25,0 l0,60 l-25,0"
+    }
+]

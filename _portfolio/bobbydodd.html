@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link href="bobbydodd.css" rel="stylesheet">
+        <script src="../lib/d3.v3.min.js"></script>
+        <script src="../lib/d3.tip.v0.6.3.js"></script>
+        <script src="bobbydodd.js"></script>
+    </head>
+    <body>
+        <h4 class="vis_header">Willingness-to-Pay by Section</h4>
+
+        <div class="holder">
+            <p class="vis_instructions">Select an opponent and day & time to see the net difference of face value and fan willingess-to-pay for a ticket in the 2018 football season.</p>
+
+            <p id="opponentIndicator">Opponent:</p>
+            <p id="day_and_timeIndicator">Day & Time:</p>
+
+            <select id="opponentSelector" class="custom-select"></select>
+            <select id="day_and_timeSelector"></select>
+        </div>
+
+        <script>stadium("Null", "Saturday Noon")</script>
+    </body>
+</html>
