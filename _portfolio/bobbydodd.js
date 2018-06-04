@@ -263,7 +263,7 @@ function createStadium() {
     var img = svg.selectAll("image").data([0]);
     img.enter()
         .append("svg:image")
-        .attr("xlink:href", "/images/grant_field.png")
+        .attr("xlink:href", "/_portfolio/images/grant_field.png")
         .attr("x", width/7*2)
         .attr("y", height/7*2)
         .attr("width", "460")
