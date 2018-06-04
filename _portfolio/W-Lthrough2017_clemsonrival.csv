@@ -1,0 +1,117 @@
+Year,HomeAway,EventCode,Date,Opponent,Location,W - L,Day,Time,Prior Year Wins,Conference,Rival,GTPriorYearWins,OppTwitterFollowers,MilesToATL,UndergradPop,GameMonth,FalconsHome,NatlChamp1980,NatlChampBinary,Tgiving_or_labor,NatlTV,Tvstation,GeorgiaBinary
+2018,Home,2018F01,1-Sep,Alcorn State,,,Saturday,,7,FCS,No,5,1192,455,2825,Sept,No,0,0,LaborDay,,,No
+2018,Away,,,,,,,,,,,5,,,,,,,,,,,No
+2018,Away,,,,,,,,,,,5,,,,,,,,,,,No
+2018,Home,2018F02,22-Sep,Clemson,,,Saturday,,12,ACC,Yes,5,910000,120,18599,Sept,,2,1,,,,No
+2018,Home,2018F03,29-Sep,Bowling Green,,,Saturday,,2,Non-Power5,No,5,16500,639,14852,Sept,,0,0,,,,No
+2018,Away,,,,,,,,,,,5,,,,,,,,,,,No
+2018,Home,2018F04,13-Oct,Duke,,,Saturday,,7,ACC,No,5,37500,379,6609,Oct,,0,0,,,,No
+2018,Away,,,,,,,,,,,5,,,,,,,,,,,No
+2018,Away,,,,,,,,,,,5,,,,,,,,,,,No
+2018,Home,2018F05,10-Nov,Miami,,,Saturday,,10,ACC,No,5,216000,671,10849,Nov,,5,1,,,,No
+2018,Home,2018F06,17-Nov,Virginia,,,Saturday,,6,ACC,No,5,49500,505,16331,Nov,,0,0,,,,No
+2018,Away,,,,,,,,,,,5,,,,,,,,,,,No
+2017,Neutral,,"Monday, September 4, 2017",Tennessee,"Atlanta, Ga. (Mercedes-Benz Stadium)","L, 42-41 (2OT)",,,,,,9,,,,,,,,,,,No
+2017,Home,2017F01,"Saturday, September 9, 2017",Jacksonville State,"Atlanta, Ga.","W, 37-10",Saturday,Noon,10,FCS,No,9,1944,97,7561,Sept,No,0,0,,,,No
+2017,Away,,"Saturday, September 16, 2017",at UCF,"Orlando, Fla.",Cancelled,,,,,,9,,,,,,,,,,,No
+2017,Home,2017F02,"Saturday, September 23, 2017",Pittsburgh,"Atlanta, Ga.","W, 35-17",Saturday,Noon,8,ACC,No,9,67600,684,19123,Sept,No,0,0,,,,No
+2017,Home,2017F03,"Saturday, September 30, 2017",North Carolina,"Atlanta, Ga.","W, 33-7",Saturday,Noon,8,ACC,No,9,149000,378,18523,Sept,No,0,0,,Yes,ESPN2,No
+2017,Away,,"Saturday, October 14, 2017",at Miami,"Miami Gardens, Fla.","L, 25-24",,,,,,9,,,,,,,,,,,No
+2017,Home,2017F04,"Saturday, October 21, 2017",Wake Forest,"Atlanta, Ga.","W, 38-24",Saturday,Night,7,ACC,No,9,31500,317,4955,Oct,No,0,0,,,,No
+2017,Away,,"Saturday, October 28, 2017",at Clemson,"Clemson, S.C.","L, 24-10",,,,,,9,,,,,,,,,,,No
+2017,Away,,"Saturday, November 4, 2017",at Virginia,"Charlottesville, Va.","L, 40-36",,,,,,9,,,,,,,,,,,No
+2017,Home,2017F05,"Saturday, November 11, 2017",Virginia Tech,"Atlanta, Ga.","W, 28-22",Saturday,Noon,10,ACC,No,9,64500,405,25791,Nov,Yes,0,0,,,,No
+2017,Away,,"Saturday, November 18, 2017",at Duke,"Durham, N.C.","L, 43-20",,,,,,9,,,,,,,,,,,No
+2017,Home,2017F06,"Saturday, November 25, 2017",Georgia,"Atlanta, Ga.","L, 38-7",Saturday,Noon,8,Power5,Yes,9,868000,69,27951,Nov,Yes,1,1,Thanksgiving,Yes,ABC,Yes
+2016,Away,,"Saturday, September 3, 2016",Boston College,"Dublin, Ireland","W, 17-14",,,,,,3,,,,,,,,,,,No
+2016,Home,2016F01,"Saturday, September 10, 2016",Mercer,"Atlanta, Ga.","W, 35-10",Saturday,Afternoon,5,FCS,No,3,14000,34,4706,Sept,Yes,0,0,,,,No
+2016,Home,2016F02,"Saturday, September 17, 2016",Vanderbilt,"Atlanta, Ga.","W, 38-7",Saturday,Noon,4,Power5,No,3,52800,246,6871,Sept,No,0,0,,,,No
+2016,Home,2016F03,"Thursday, September 22, 2016",Clemson,"Atlanta, Ga.","L, 26-7",Thursday,Night,14,ACC,Yes,3,910000,120,18599,Sept,No,2,1,,Yes,ESPN,No
+2016,Home,2016F04,"Saturday, October 1, 2016",Miami,"Atlanta, Ga.","L, 35-21",Saturday,Noon,8,ACC,No,3,216000,671,10849,Oct,Yes,5,1,,Yes,ESPN2,No
+2016,Away,,"Saturday, October 8, 2016",at_Pittsburgh *,"Pittsburgh, Pa.","L, 37-34",,,,,,3,,,,,,,,,,,No
+2016,Home,2016F05,"Saturday, October 15, 2016",Georgia Southern,"Atlanta, Ga.","W, 35-24",Saturday,Noon,9,Non-Power5,No,3,21400,209,18005,Oct,No,0,0,,,,No
+2016,Home,2016F06,"Saturday, October 29, 2016",Duke,"Atlanta, Ga.","W, 38-35",Saturday,Noon,8,ACC,No,3,37500,379,6609,Oct,Yes,0,0,,,,No
+2016,Away,,"Saturday, November 5, 2016",at_North Carolina *,"Chapel Hill, N.C.","L, 48-20",,,,,,3,,,,,,,,,,,No
+2016,Away,,"Saturday, November 12, 2016",at_Virginia Tech *,"Blacksburg, Va.","W, 30-20",,,,,,3,,,,,,,,,,,No
+2016,Home,2016F07,"Saturday, November 19, 2016",Virginia,"Atlanta, Ga.","W, 31-17",Saturday,Noon,4,ACC,No,3,49500,505,16331,Nov,No,0,0,,,,No
+2016,Away,,"Saturday, November 26, 2016",at_Georgia,"Athens, Ga.","W, 28-27",,,,,,3,,,,,,,,,,,Yes
+2016,Away,,"Saturday, December 31, 2016",Kentucky,"Jacksonville, Fla.","W, 33-18",,,,,,3,,,,,,,,,,,No
+2015,Home,2015F01,"Thursday, September 3, 2015",Alcorn State,"Atlanta, Ga.","W, 69-6",Thursday,Night,10,FCS,No,11,1192,455,2825,Sept,No,0,0,LaborDay,,,No
+2015,Home,2015F02,"Saturday, September 12, 2015",Tulane,"Atlanta, Ga.","W, 65-10",Saturday,Afternoon,3,Non-Power5,No,11,21200,474,6377,Sept,Yes,0,0,,,,No
+2015,Away,,"Saturday, September 19, 2015",at Notre Dame,"South Bend, Ind.","L, 30-22",,,,,,11,,,,,,,,,,,No
+2015,Away,,"Saturday, September 26, 2015",at Duke,"Durham, N.C.","L, 34-20",,,,,,11,,,,,,,,,,,No
+2015,Home,2015F03,"Saturday, October 3, 2015",North Carolina,"Atlanta, Ga.","L, 38-31",Saturday,Afternoon,6,ACC,No,11,149000,378,18523,Oct,Yes,0,0,,,,No
+2015,Away,,"Saturday, October 10, 2015",at Clemson,"Clemson, S.C.","L, 43-24",,,,,,11,,,,,,,,,,,No
+2015,Home,2015F04,"Saturday, October 17, 2015",Pittsburgh,"Atlanta, Ga.","L, 31-28",Saturday,Noon,6,ACC,No,11,67600,684,19123,Oct,No,0,0,,,,No
+2015,Home,2015F05,"Saturday, October 24, 2015",Florida State,"Atlanta, Ga.","W, 22-16",Saturday,Night,13,ACC,No,11,362000,264,32929,Oct,No,3,1,,Yes,ESPN2,No
+2015,Away,,"Saturday, October 31, 2015",at Virginia,"Charlottesville, Va.","L, 27-21",,,,,,11,,,,,,,,,,,No
+2015,Home,2015F06,"Thursday, November 12, 2015",Virginia Tech,"Atlanta, Ga.","L, 23-21",Thursday,Night,7,ACC,No,11,64500,405,25791,Nov,No,0,0,,Yes,ESPN,No
+2015,Away,,"Saturday, November 21, 2015",at Miami,"Miami Gardens, Fla.","L, 38-21",,,,,,11,,,,,,,,,,,No
+2015,Home,2015F07,"Saturday, November 28, 2015",Georgia,"Atlanta, Ga.","L, 13-7",Saturday,Noon,10,Power5,Yes,11,868000,69,27951,Nov,Yes,1,1,Thanksgiving,Yes,ESPN2,Yes
+2014,Home,2014F01,"Saturday, August 30, 2014",Wofford,"Atlanta, Ga.","W, 38-19",Saturday,Noon,5,FCS,No,7,6447,172,1622,Aug,No,0,0,LaborDay,,,No
+2014,,,"Saturday, September 6, 2014",at Tulane,"New Orleans, La.","W, 38-21",,,,,,7,,,,,,,,,,,No
+2014,Home,2014F02,"Saturday, September 13, 2014",Georgia Southern,"Atlanta, Ga.","W, 42-38",Saturday,Noon,7,Non-Power5,No,7,21400,209,18005,Sept,No,0,0,,,,No
+2014,,,"Saturday, September 20, 2014",at Virginia Tech,"Blacksburg, Va.","W, 27-24",,,,,,7,,,,,,,,,,,No
+2014,Home,2014F03,"Saturday, October 4, 2014",Miami,"Atlanta, Ga.","W, 28-17",Saturday,Night,9,ACC,No,7,216000,671,10849,Oct,No,5,1,,Yes,ESPN2,No
+2014,Home,2014F04,"Saturday, October 11, 2014",Duke,"Atlanta, Ga.","L, 31-25",Saturday,Noon,10,ACC,No,7,37500,379,6609,Oct,Yes,0,0,,,,No
+2014,,,"Saturday, October 18, 2014",at North Carolina,"Chapel Hill, NC","L, 48-43",,,,,,7,,,,,,,,,,,No
+2014,,,"Saturday, October 25, 2014",at Pittsburgh,"Pittsburgh, Pa.","W, 56-28",,,,,,7,,,,,,,,,,,No
+2014,Home,2014F05,"Saturday, November 1, 2014",Virginia,"Atlanta, Ga.","W, 35-10",Saturday,Afternoon,2,ACC,No,7,49500,505,16331,Nov,No,0,0,,,,No
+2014,,,"Saturday, November 8, 2014",at North Carolina State,"Raleigh, NC","W, 56-23",,,,,,7,,,,,,,,,,,No
+2014,Home,2014F06,"Saturday, November 15, 2014",Clemson,"Atlanta, Ga.","W, 28-6",Saturday,Noon,11,ACC,Yes,7,910000,120,18599,Nov,No,2,1,,Yes,ESPN,No
+2014,,,"Saturday, November 29, 2014",at Georgia,"Athens, Ga.","W, 30-24 (OT)",,,,,,7,,,,,,,,,,,Yes
+2014,,,"Saturday, December 6, 2014",Florida State,"Charlotte, N.C.","L, 37-35",,,,,,7,362000,264,32929,,No,3,1,,,,No
+2014,,,"Wednesday, December 31, 2014",Mississippi State,"Miami Gardens, Fla.","W, 49-34",,,,,,7,,,,,,,,,,,No
+2013,Home,2013F01,"Saturday, August 31, 2013",Elon,"Atlanta, Ga.","W, 70-0",Saturday,Noon,3,FCS,No,7,2748,346,6008,Aug,No,0,0,LaborDay,,,No
+2013,,,"Saturday, September 14, 2013",at Duke,"Durham, N.C.","W, 38-14",,,,,,7,,,,,,,,,,,No
+2013,Home,2013F02,"Saturday, September 21, 2013",North Carolina,"Atlanta, Ga.","W, 28-20",Saturday,Noon,8,ACC,No,7,149000,378,18523,Sept,No,0,0,,Yes,ESPN,No
+2013,Home,2013F03,"Thursday, September 26, 2013",Virginia Tech,"Atlanta, Ga.","L, 17-10",Thursday,Night,7,ACC,No,7,64500,405,25791,Sept,No,0,0,,Yes,ESPN,No
+2013,,,"Saturday, October 5, 2013",at Miami,"Miami Gardens, Fla.","L, 45-30",,,,,,7,,,,,,,,,,,No
+2013,,,"Saturday, October 12, 2013",at BYU,"Provo, Utah","L, 38-20",,,,,,7,,,,,,,,,,,No
+2013,Home,2013F04,"Saturday, October 19, 2013",Syracuse,"Atlanta, Ga.","W, 56-0",Saturday,Noon,8,ACC,No,7,46300,961,15218,Oct,Yes,0,0,,,,No
+2013,,,"Saturday, October 26, 2013",at Virginia,"Charlottesville, Va.","W, 35-25",,,,,,7,,,,,,,,,,,No
+2013,Home,2013F05,"Saturday, November 2, 2013",Pittsburgh,"Atlanta, Ga.","W, 21-10",Saturday,Night,6,ACC,No,7,67600,684,19123,Nov,No,0,0,,,,No
+2013,,,"Thursday, November 14, 2013",at Clemson,"Clemson, S.C.","L, 55-31",,,,,,7,,,,,,,,,,,No
+2013,Home,2013F06,"Saturday, November 23, 2013",Alabama A&M,"Atlanta, Ga.","W, 66-7",Saturday,Noon,7,FCS,No,7,2105,175,4851,Nov,Yes,0,0,,,,No
+2013,Home,2013F07,"Saturday, November 30, 2013",Georgia,"Atlanta, Ga.","L, 41-34 (2OT)",Saturday,Afternoon,12,Power5,Yes,7,868000,69,27951,Nov,No,1,1,Thanksgiving,Yes,ABC,Yes
+2013,,,"Monday, December 30, 2013",Ole Miss,"Nashville, Tenn.","L, 25-17",,,,,,7,,,,,,,,,,,No
+2012,,,"Monday, September 3, 2012",at Virginia Tech,"Blacksburg, Va.","L, 20-17 (OT)",,,,,,8,,,,,,,,,,,No
+2012,Home,2012F01,"Saturday, September 8, 2012",Presbyterian,"Atlanta, Ga.","W, 59-3",Saturday,Night,4,FCS,No,8,3759,182,1063,Sept,No,0,0,,,,No
+2012,Home,2012F02,"Saturday, September 15, 2012",Virginia,"Atlanta, Ga.","W, 56-20",Saturday,Afternoon,8,ACC,No,8,49500,505,16331,Sept,Yes,0,0,,,,No
+2012,Home,2012F03,"Saturday, September 22, 2012",Miami,"Atlanta, Ga.","L, 42-36 (OT)",Saturday,Afternoon,6,ACC,No,8,216000,671,10849,Sept,No,5,1,,,,No
+2012,Home,2012F04,"Saturday, September 29, 2012",Middle Tennessee State,"Atlanta, Ga.","L, 49-28",Saturday,Noon,2,Non-Power5,No,8,15600,215,19693,Sept,Yes,0,0,,,,No
+2012,,,"Saturday, October 6, 2012",at Clemson,"Clemson, S.C.","L, 47-31",,,,,,8,,,,,,,,,,,No
+2012,Home,2012F05,"Saturday, October 20, 2012",Boston College,"Atlanta, Ga.","W, 37-17",Saturday,Afternoon,4,ACC,No,8,23900,1093,9309,Oct,No,0,0,,,,No
+2012,Home,2012F06,"Saturday, October 27, 2012",BYU,"Atlanta, Ga.","L, 41-17",Saturday,Afternoon,10,Power5,No,8,56700,1878,30979,Oct,No,0,0,,,,No
+2012,,,"Saturday, November 3, 2012",at Maryland,"College Park, Md.","W, 33-13",,,,,,8,,,,,,,,,,,No
+2012,,,"Saturday, November 10, 2012",at North Carolina,"Chapel Hill, N.C.","W, 68-50",,,,,,8,,,,,,,,,,,No
+2012,Home,2012F07,"Saturday, November 17, 2012",Duke,"Atlanta, Ga.","W, 42-24",Saturday,Afternoon,3,ACC,No,8,37500,379,6609,Nov,Yes,0,0,,,,No
+2012,,,"Saturday, November 24, 2012",at Georgia,"Athens, Ga.","L, 42-10",,,,,,8,,,,,,,,,,,Yes
+2012,,,"Saturday, December 1, 2012",Florida State,"Charlotte, N.C.","L, 21-15",,,,,,8,,,,,,,,,,,No
+2012,,,"Monday, December 31, 2012",USC,"El Paso, Texas","W, 21-7",,,,,,8,,,,,,,,,,,No
+2011,Home,2011F01,"Thursday, September 1, 2011",Western Carolina,"Atlanta, Ga.","W, 63-21",Thursday,Night,2,Non-Power5,No,6,7393,151,9171,Sept,No,0,0,LaborDay,,,No
+2011,,,"Saturday, September 10, 2011",at Middle Tennessee State,"Murfreesboro, Tenn.","W, 49-21",,,,,,6,,,,,,,,,,,No
+2011,Home,2011F02,"Saturday, September 17, 2011",Kansas,"Atlanta, Ga.","W, 66-24",Saturday,Noon,3,Power5,No,6,47600,836,19262,Sept,Yes,0,0,,,,No
+2011,Home,2011F03,"Saturday, September 24, 2011",North Carolina,"Atlanta, Ga.","W, 35-28",Saturday,Noon,8,ACC,No,6,149000,378,18523,Sept,No,0,0,,,,No
+2011,,,"Saturday, October 1, 2011",at North Carolina State,"Raleigh, N.C.","W, 45-35",,,,,,6,,,,,,,,,,,No
+2011,Home,2011F04,"Saturday, October 8, 2011",Maryland,"Atlanta, Ga.","W, 21-16",Saturday,Noon,9,ACC,No,6,56700,658,28472,Oct,Yes,0,0,,,,No
+2011,,,"Saturday, October 15, 2011",at Virginia,"Charlottesville, Va.","L, 24-21",,,,,,6,,,,,,,,,,,No
+2011,,,"Saturday, October 22, 2011",at Miami,"Miami, Fla.","L, 24-7",,,,,,6,,,,,,,,,,,No
+2011,Home,2011F05,"Saturday, October 29, 2011",Clemson,"Atlanta, Ga.","W, 31-17",Saturday,Night,6,ACC,Yes,6,910000,120,18599,Oct,No,2,1,,,,No
+2011,Home,2011F06,"Thursday, November 10, 2011",Virginia Tech,"Atlanta, Ga.","L, 37-26",Thursday,Night,11,ACC,No,6,64500,405,25791,Nov,Yes,0,0,,,,No
+2011,,,"Saturday, November 19, 2011",at Duke,"Durham, N.C.","W, 38-31",,,,,,6,,,,,,,,,,,No
+2011,Home,2011F07,"Saturday, November 26, 2011",Georgia,"Atlanta, Ga.","L, 31-17",Saturday,Noon,6,Power5,Yes,6,868000,69,27951,Nov,Yes,1,1,Thanksgiving,,,Yes
+2011,,,"Saturday, December 31, 2011",Utah,"El Paso, Texas","L, 30-27 (OT)",,,,,,6,,,,,,,,,,,No
+2010,Home,2010F01,"Saturday, September 4, 2010",South Carolina State,Bobby Dodd Stadium,"W, 41-10",Saturday,Noon,10,FCS,No,10,3629,225,2529,Sept,No,0,0,LaborDay,,,No
+2010,,,"Saturday, September 11, 2010",at Kansas,"Lawrence, Kan.","L, 28-25",,,,,,10,,,,,,,,,,,No
+2010,,,"Saturday, September 18, 2010",at North Carolina,"Chapel Hill, N.C.","W, 30-24",,,,,,10,,,,,,,,,,,No
+2010,Home,2010F02,"Saturday, September 25, 2010",NC State,Bobby Dodd Stadium,"L, 45-28",Saturday,Noon,5,ACC,No,10,134000,402,23847,Sept,No,0,0,,,,No
+2010,,,"Saturday, October 2, 2010",at Wake Forest,"Winston-Salem, N.C.","W, 24-20",,,,,,10,,,,,,,,,,,No
+2010,Home,2010F03,"Saturday, October 9, 2010",Virginia,Bobby Dodd Stadium,"W, 33-21",Saturday,Afternoon,3,ACC,No,10,49500,505,16331,Oct,No,0,0,,,,No
+2010,Home,2010F04,"Saturday, October 16, 2010",Middle Tennessee State,Bobby Dodd Stadium,"W, 42-14",Saturday,Afternoon,10,Non-Power5,No,10,15600,215,19693,Oct,No,0,0,,,,No
+2010,,,"Saturday, October 23, 2010",at Clemson,"Clemson, S.C.","L, 27-13",,,,,,10,,,,,,,,,,,No
+2010,,,"Thursday, November 4, 2010",at Virginia Tech,"Blacksburg, Va.","L, 28-21",,,,,,10,,,,,,,,,,,No
+2010,Home,2010F05,"Saturday, November 13, 2010",Miami,Bobby Dodd Stadium,"L, 35-10",Saturday,Noon,9,ACC,No,10,216000,671,10849,Nov,Yes,5,1,,,,No
+2010,Home,2010F06,"Saturday, November 20, 2010",Duke,Bobby Dodd Stadium,"W, 30-20",Saturday,Noon,5,ACC,No,10,37500,379,6609,Nov,No,0,0,,,,No
+2010,,,"Saturday, November 27, 2010",at Georgia,"Athens, Ga.","L, 42-34",,,,,,10,,,,,,,,,,,
+2010,,,"Monday, December 27, 2010",Air Force,"Shreveport, La.","L, 14-7",,,,,,10,,,,,,,,,,,
