@@ -10,7 +10,7 @@ function stadium(opponent, day_and_time){
     console.log(opponent + " + " + day_and_time);
 
     // import and filter R model output data
-    d3.csv("/data/export.csv", function(data) {
+    d3.csv("/portfolio/data/export.csv", function(data) {
         // create a new array to store export data for access throughout
         xData = [];
         data.forEach( function(d) {
