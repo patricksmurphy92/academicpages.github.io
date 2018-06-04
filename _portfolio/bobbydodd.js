@@ -10,7 +10,7 @@ function stadium(opponent, day_and_time){
     console.log(opponent + " + " + day_and_time);
 
     // import and filter R model output data
-    d3.csv("/_porfolio/data/export.csv", function(data) {
+    d3.csv("/data/export.csv", function(data) {
         // create a new array to store export data for access throughout
         xData = [];
         data.forEach( function(d) {
@@ -263,7 +263,7 @@ function createStadium() {
     var img = svg.selectAll("image").data([0]);
     img.enter()
         .append("svg:image")
-        .attr("xlink:href", "/_portfolio/images/grant_field.png")
+        .attr("xlink:href", "/images/grant_field.png")
         .attr("x", width/7*2)
         .attr("y", height/7*2)
         .attr("width", "460")
