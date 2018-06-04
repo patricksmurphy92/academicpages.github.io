@@ -10,4 +10,4 @@ fslajflsaj
 safjlsdajf
 jflsdajfls
 
-To see the visualization, click on the GTAA Project tab above
+Click here to see the [I'm an inline-style link](https://patricksmurphy92.github.io/portfolio/bobbydodd.html).
