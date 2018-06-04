@@ -263,13 +263,13 @@ function createStadium() {
     var img = svg.selectAll("image").data([0]);
     img.enter()
         .append("svg:image")
-        .attr("xlink:href", "/images/grant_field.png")
+        .attr("xlink:href", "/portfolio/images/grant_field.png")
         .attr("x", width/7*2)
         .attr("y", height/7*2)
         .attr("width", "460")
         .attr("height", "210");
 
-    d3.json("/data/sections.json", function(sections) {
+    d3.json("/portfolio/data/sections.json", function(sections) {
 
         // attach the Wtp, lower and upper bound, face, and net info to the sections dataset on section_name
         sections.forEach(function(d) { d.Wtp = wtpVector[d.section_name] });
